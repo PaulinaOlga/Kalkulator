@@ -16,4 +16,4 @@ elif znak == "**" or znak == "^":
 elif znak == "%":
     print(str(liczba1 % liczba2))
 elif znak == "p":
-    print(liczba1*liczba2*0.01)
+    print(liczba1*liczba2 * 0.01)
