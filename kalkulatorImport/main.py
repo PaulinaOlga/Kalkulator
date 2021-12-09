@@ -2,9 +2,12 @@
 import kalkulatorwersja4
 #from kalkulatorwersja4 import dodaj, sinus
 
+c = kalkulatorwersja4.dodaj(5,3)
+print(c)
 
 
-
+d = kalkulatorwersja4.objetoscWalca(3,6)
+print(d)
 
 
 
