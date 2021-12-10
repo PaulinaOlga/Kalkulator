@@ -1,5 +1,4 @@
 import random
-#random.seed(8)
 
 #l=random.randrange(1,49,1)
 
