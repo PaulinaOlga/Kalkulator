@@ -19,6 +19,4 @@ dodaj1 = kalkulatorwersja4.dodaj(21, 45)
 
 print(sinusZ1)
 print(pierwZ1)
-print(dodaj1)
-
 

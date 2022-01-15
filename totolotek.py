@@ -1,6 +1,11 @@
+# Napisz program, który wylosuje 6 liczb z przedziału 1:49
+
 import random
+#def wylosujLiczbe():
+    #l=random.randrange(1,49)
+    #return (l)
 
-#l=random.randrange(1,49,1)
+#print (wylosujLiczbe())
 
-l=random.sample(range(1,49),6)
+l=random.sample(range(1,50),6)
 print(l)
