@@ -11,10 +11,10 @@ def zamknij_okno(czas):
     top.deiconify()
 
 def zamknij_okno5():
-    zamknij_okno(5)
+    zamknij_okno(5*60)
 
 def zamknij_okno30():
-    zamknij_okno(30)
+    zamknij_okno(30*60)
 
 def pokaz_okno():
     top.title("Przypominajka")
